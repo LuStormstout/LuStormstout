@@ -7,7 +7,6 @@
 - 🙂 I like karting 🏎️ 🏁, cycling 🚴, football ⚽️
 - 🎮 I’m a World of Warcraft player
 - 🔗 https://jacklucn.com/
----
 
 ### 🏆 GitHub Profile Trophy:
 ---
