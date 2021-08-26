@@ -15,6 +15,14 @@
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=LuStormstout&column=8&theme=radical&no-frame=true&no-bg=true"/>
 </a>
 
+### 📊 GitHub Stats:
+---
+![Kakise github stats](https://github-readme-stats.vercel.app/api?username=LuStormstout&theme=radical&show_icons=true&count_private=true)
+
+![Kakise Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LuStormstout&theme=solarized_dark)
+![Kakise Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LuStormstout&theme=solarized_dark)
+![Kakise Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuStormstout&theme=solarized_dark)
+
 <!--
 **LuStormstout/LuStormstout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
