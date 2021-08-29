@@ -6,7 +6,8 @@
 - 📍 I’m currently live in Chengdu, China
 - 🏎️ karting 🚴 cycling ⚽️ football 
 - 🎮 I’m a World of Warcraft player
-- 🔗 https://jacklucn.com/
+- 📧 lustormstout@gmail.com jacklu.net@gmail.com
+- 🔗 https://lustormstout.com/ https://jacklucn.com/
 
 ### 📊 GitHub Stats:
 ---
