@@ -5,8 +5,8 @@
 - 🌱 I’m currently learning Python and Ruby on Rails
 - 📍 I’m currently live in Chengdu, China
 - 🏎️ karting 🚴 cycling ⚽️ football 
-- 📧 lustormstout@gmail.com jacklu.net@gmail.com
-- 🔗 https://lustormstout.com/ https://jacklucn.com/
+- 📧 lustormstout@gmail.com
+- 🔗 https://lustormstout.com/
 
 ### 📊 GitHub Stats:
 ---
