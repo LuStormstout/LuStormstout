@@ -2,7 +2,7 @@
 ---
 - 👤 I’m a web developer
 - 🔧 I mainly use PHP for web development
-- 🌱 I’m currently learning Python and Ruby on Rails
+- 🌱 I'm currently learning Python, Ruby on Rails, Go
 - 📍 I’m currently live in Chengdu, China
 - 🏎️ karting 🚴 cycling ⚽️ football 
 - 📧 lustormstout@gmail.com
