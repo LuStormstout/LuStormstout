@@ -14,6 +14,7 @@
 
 ![Kakise Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LuStormstout&theme=default)
 ![Kakise Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LuStormstout&theme=default)
+![Kakise Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LuStormstout&theme=solarized_dark)
 
 <!--
 **LuStormstout/LuStormstout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
