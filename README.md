@@ -6,7 +6,6 @@
 - 📍 I’m currently live in Chengdu, China
 - 🏎️ karting 🚴 cycling ⚽️ football 
 - 📧 lustormstout@gmail.com
-- 🔗 https://lustormstout.com/
 
 ### 📊 GitHub Stats:
 ---
