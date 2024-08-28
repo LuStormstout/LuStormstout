@@ -20,7 +20,7 @@
   
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LuStormstout&theme=solarized_dark" alt="Most Commit Language" style="height: 150px;" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuStormstout&layout=compact&bg_color=002b36&title_color=839496&text_color=839496&icon_color=268bd2" alt="Top Langs" style="height: 150px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuStormstout&layout=compact&bg_color=002b36&title_color=839496&text_color=839496&icon_color=268bd2&exclude=HTML,CSS,CoffeeScript,JavaScript" alt="Top Langs" style="height: 150px;" />
 
 </div>
 
