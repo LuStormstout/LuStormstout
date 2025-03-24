@@ -3,7 +3,7 @@
 - 👤 I’m a web developer
 - 🔧 I mainly use PHP for web development
 - 🌱 I'm currently learning Python, Go
-- 📍 I’m currently live in Earth
+- 📍 I’m currently live on Earth
 - 🏎️ karting 🚴 cycling ⚽️ football 
 - 📧 lustormstout@gmail.com
 
